@@ -61,3 +61,8 @@ I'm a final year student specialising in BSc (Hons) Computing in Software, gradu
 ### Systems
 ![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+  
+  
+  
+  
+Inspired by [ForrestKnight/ForrestKnight](https://github.com/ForrestKnight).
